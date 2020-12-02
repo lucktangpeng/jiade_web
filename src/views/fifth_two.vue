@@ -1,18 +1,19 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
+  <div class="fifth_two">
+    <div></div>
   </div>
 </template>
 
 <script lang="ts">
 import Vue from "vue";
 export default Vue.extend({
-  name: "app"
+  name: "home"
 });
 </script>
 
 <style lang="scss" scoped>
-.app {
-  overflow: hidden;
+.fifth_two {
+  background: url("../assets/images/5f_back_two.png");
+  height: 100vh;
 }
 </style>

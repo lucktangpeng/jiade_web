@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.el-header {
+  padding: 0px;
+}
+
+.el-main {
+  padding: 0;
+}
+
+
+.el-popover {
+  max-width: 450px !important;
+  width: 450px !important;
+}
