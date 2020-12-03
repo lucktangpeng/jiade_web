@@ -12,7 +12,7 @@
       <el-menu-item index="/">1F</el-menu-item>
       <el-menu-item index="/second">2F</el-menu-item>
       <el-menu-item index="/fifth_one">5F 1</el-menu-item>
-      <el-menu-item index="/fifth_two">5F 2</el-menu-item>
+      <!-- <el-menu-item index="/fifth_two">5F 2</el-menu-item> -->
     </el-menu>
   </div>
 </template>
